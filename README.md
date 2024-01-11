@@ -1,6 +1,6 @@
 # Swivel
 
-This is draft. I wll implement step by step.
+This is a draft. I wll implement step by step.
 
 "Swivel" is an application designed for easy and efficient asset management, even amidst the hustle and bustle of daily life. It simplifies what can often seem like a complex process of financial management, with a straightforward and intuitive interface. Using Swivel, you can gain clearer insights into your income and expenses, and plan your finances more effectively.
 
