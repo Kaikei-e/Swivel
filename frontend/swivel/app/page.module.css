@@ -18,7 +18,11 @@
   font-family: var(--font-mono);
 }
 
-.description a {
+.appStatement {
+  color: aliceblue;
+}
+
+/* .description a {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -32,7 +36,13 @@
   background-color: rgba(var(--callout-rgb), 0.5);
   border: 1px solid rgba(var(--callout-border-rgb), 0.3);
   border-radius: var(--border-radius);
-}
+} */
+
+/* .wallpaper {
+  position: absolute;
+  background-image: url('/public/wallpaper.jpg');
+  background-size: cover;
+} */
 
 .code {
   font-weight: 700;
@@ -51,7 +61,9 @@
   border-radius: var(--border-radius);
   background: rgba(var(--card-rgb), 0);
   border: 1px solid rgba(var(--card-border-rgb), 0);
-  transition: background 200ms, border 200ms;
+  transition:
+    background 200ms,
+    border 200ms;
 }
 
 .card span {
@@ -97,7 +109,7 @@
 
 .center::before,
 .center::after {
-  content: '';
+  content: "";
   left: 50%;
   position: absolute;
   filter: blur(45px);
