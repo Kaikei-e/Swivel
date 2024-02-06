@@ -8,7 +8,7 @@ export default function Home() {
       <div className="-z-50">
         <Image
           src={"/flower_bells.jpg"}
-          alt={"blue small blowers on the ground"}
+          alt={"blue small flowers on the ground"}
           fill
           quality={100}
           sizes="100vw"
